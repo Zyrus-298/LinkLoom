@@ -1,32 +1,22 @@
 [
     {
-        "url": "https://github.com",
-        "text": "GitHub",
-        "icon": "fa-brands fa-github"
+        "url": "https://discord.gg/YYaAAGgN",
+        "text": "Discord",
+        "icon": "fa-brands fa-discord"
     },
     {
-        "url": "https://medium.com",
-        "text": "Medium",
-        "icon": "fa-brands fa-medium"
-    },
-    {
-        "url": "https://youtube.com",
-        "text": "YouTube",
-        "icon": "fa-brands fa-youtube"
-    },
-    {
-        "url": "https://instagram.com",
+        "url": "https://www.instagram.com/Zyrus_298/",
         "text": "Instagram",
         "icon": "fa-brands fa-instagram"
     },
     {
-        "url": "https://bsky.app",
-        "text": "Bluesky",
-        "icon": "fa-brands fa-bluesky fa-sm"
+        "url": "https://steamcommunity.com/id/buttergolum",
+        "text": "Steam",
+        "icon": "fa-brands fa-steam"
     },
     {
-        "url": "https://github.com/nandolawson/LinkLoom",
-        "text": "😃 Download LinkLoom on GitHub",
-        "icon": ""
+        "url": "https://www.xbox.com/de-DE/play/user?gamertag=zyrus_298",
+        "text": "Xbox",
+        "icon": "fa-brands fa-xbox"
     }
 ]
