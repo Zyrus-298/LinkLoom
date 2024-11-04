@@ -15,6 +15,11 @@
         "icon": "fa-brands fa-steam"
     },
     {
+        "url": "https://www.twitch.tv/butergolem",
+        "text": "Twitch",
+        "icon": "fa-brands fa-twitch"
+    },
+    {
         "url": "https://www.xbox.com/de-DE/play/user?gamertag=zyrus_298",
         "text": "Xbox",
         "icon": "fa-brands fa-xbox"
