@@ -1,32 +1,32 @@
 [
     {
-        "url": "https://github.com",
-        "text": "GitHub",
-        "icon": "fa-brands fa-github fa-lg"
-    },
-    {
-        "url": "https://medium.com",
-        "text": "Medium",
-        "icon": "fa-brands fa-medium fa-lg"
-    },
-    {
-        "url": "https://youtube.com",
-        "text": "YouTube",
-        "icon": "fa-brands fa-youtube fa-lg"
-    },
-    {
-        "url": "https://instagram.com",
-        "text": "Instagram",
-        "icon": "fa-brands fa-instagram fa-lg"
-    },
-    {
-        "url": "https://bsky.app",
-        "text": "Bluesky",
+        "url": "",
+        "text": "BlueSky",
         "icon": "fa-brands fa-bluesky"
     },
     {
-        "url": "https://github.com/nandolawson/LinkLoom",
-        "text": "Download LinkLoom",
-        "icon": "fa-solid fa-download"
+        "url": "https://discord.gg/YYaAAGgN",
+        "text": "Discord",
+        "icon": "fa-brands fa-discord"
+    },
+    {
+        "url": "https://www.instagram.com/Zyrus_298/",
+        "text": "Instagram",
+        "icon": "fa-brands fa-instagram"
+    },
+    {
+        "url": "https://steamcommunity.com/id/buttergolum",
+        "text": "Steam",
+        "icon": "fa-brands fa-steam"
+    },
+    {
+        "url": "https://www.twitch.tv/butergolem",
+        "text": "Twitch",
+        "icon": "fa-brands fa-twitch"
+    },
+    {
+        "url": "https://www.xbox.com/de-DE/play/user?gamertag=zyrus_298",
+        "text": "Xbox",
+        "icon": "fa-brands fa-xbox"
     }
 ]
